@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class GameManagerCrane : MonoBehaviour
 {
     [SerializeField] private RemoteControl remote;
     [SerializeField] private CraneController crane;
